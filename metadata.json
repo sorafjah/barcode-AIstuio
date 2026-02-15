@@ -1,0 +1,8 @@
+{
+  "name": "100-Yen Shop Register",
+  "description": "A simple barcode register app for kids. Scans items, adds 110 yen, plays sounds, and calculates totals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
